@@ -1,7 +1,7 @@
-[Live Site Preview](https://business-card-2510.netlify.app)
+[Live Site Preview](https://business-card-2510.netlify.app)  
 
 
-To build locally:
+To build locally:   
 
--> npm install
+-> npm install  
 -> npm run dev
